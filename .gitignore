@@ -1,0 +1,90 @@
+
+# ========================================================================
+# LADIALMA — GIT IGNORE STANDARDS
+# ========================================================================
+#
+# Organization: Ladialma Web Development Studio
+# Maintainer:   Gustavo Rivero
+# Version:      1.0
+#
+# PURPOSE
+# ------------------------------------------------------------------------
+# Exclude temporary files, generated artifacts, local configurations,
+# sensitive credentials, and development utilities from version control.
+#
+# Shared development configuration files may be explicitly included.
+# ========================================================================
+
+
+# ------------------------------------------------------------------------
+# Python / Virtual Environments
+# ------------------------------------------------------------------------
+
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+*.swo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.pot
+*.mo
+
+# Virtual environment directories
+venv/
+.venv/
+ENV/
+env/
+
+
+# ------------------------------------------------------------------------
+# Environment Variables / Secrets
+# ------------------------------------------------------------------------
+
+.env
+.env.*
+!.env.example
+
+# Never commit credentials, API keys, or production secrets.
+
+
+# ------------------------------------------------------------------------
+# IDE / Editor
+# ------------------------------------------------------------------------
+
+# VS Code — Ignore local settings but preserve shared standards
+.vscode/*
+!.vscode/settings.json
+
+.history/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+
+# ------------------------------------------------------------------------
+# Operating System Files
+# ------------------------------------------------------------------------
+
+.DS_Store
+Thumbs.db
+*.bak
+*~
+
+
+# ------------------------------------------------------------------------
+# Tools & Utilities
+# ------------------------------------------------------------------------
+
+tools/
