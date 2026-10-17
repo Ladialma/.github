@@ -102,6 +102,41 @@ Explore our [Development Standards](https://github.com/Ladialma/development-stan
 
 ---
 
+## Languages & Technologies
+
+### Front-End
+![HTML5](assets/logos/html5.png) 
+![CSS3](assets/logos/css3.png) 
+![JavaScript](assets/logos/javascript.png)
+![Bootstrap](assets/logos/bootstrap.png)
+### Back-End
+![Python](assets/logos/python.png) 
+![Django](assets/logos/django.png)
+![PHP](assets/logos/php.png)
+### Database & Hosting
+![Postgres](assets/logos/postgres.png)
+![Heroku](assets/logos/heroku.png)
+![Railway](assets/logos/railway.png)
+### APIs
+![Stripe](assets/logos/stripe.png)
+![Zoho](assets/logos/zoho.png)
+![Odoo](assets/logos/odoo.png)
+### General Tools
+![GitHub](assets/logos/github.png)
+![PhotoShop](assets/logos/photoshop.png)
+![Figma](assets/logos/figma.png)
+![Docker](assets/logos/docker.png)
+### Favorite IDEs
+![PyCharm](assets/logos/pycharm.png)
+![VSstudio](assets/logos/visualstudio.png)
+![Cursor](assets/logos/cursor.png)
+### Events Attended
+![PlutoHacks2024](assets/logos/ph24.png)
+![PlutoHacks2025](assets/logos/ph25.png)
+![DEFCON34](assets/logos/d34.jpg)
+
+---
+
 ### Ladialma — Built with Purpose. Engineered for Growth.
 
 *Modern web solutions for businesses ready to move forward.*
